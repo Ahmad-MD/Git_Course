@@ -1,0 +1,3 @@
+body {
+	padding: .all(20.0,),
+}
